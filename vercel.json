@@ -1,0 +1,7 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "figma-desktop": false
+    }
+  }
+}

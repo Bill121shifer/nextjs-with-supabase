@@ -11,6 +11,12 @@ export default {
   theme: {
     extend: {
       colors: {
+        // Colors taken from the Clubcom-- Figma file
+        clubcom: {
+          blue: "#5da9e9",
+          gray: "#c3c3c3",
+          "gray-dark": "#adadad",
+        },
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
