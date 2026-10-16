@@ -6,3 +6,12 @@ How does a change get from Claude Code to the live site? List the steps.claude c
 What will you need to add to turn this into your team's app? Use your product manager's feature list. I would need to add a group chat, notifications feature and other stuff
 ![Sign up page](signup.png)
 
+![after changes](after.png)
+
+![login page](login.png)
+
+![before page](before.png)
+
+![supabase](supabasedata.png)
+
+![vercel](vercelready.png)
